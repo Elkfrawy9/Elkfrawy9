@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-#Skills
+# Skills
 
 ##Programming Language
 -Java    -kotlin    -Php    -html    -css
 
-##Android
+## Android
 - good knowledge of android main componet(Activity, BroadCast, Service, Content Provider)
 - good knowledge of google material/Android UI design principles and patterns
 - Architecture and navigation component
