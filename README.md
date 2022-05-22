@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 ##Programming Language
 - Java    - kotlin    -Php    -html    -css
 
@@ -14,5 +14,3 @@
 - Dependency injection (Dagger-Hilt)
 - design pattern MVVM - MVC
 
-
--->
