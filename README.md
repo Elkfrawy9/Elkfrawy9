@@ -4,7 +4,7 @@
 
 ## Programming Language
 
--Java    -kotlin    -Php    -html    -css
+-Java    -kotlin    -Php    -html    -css    -C#
 
 ## Android
 - good knowledge of android main componet(Activity, BroadCast, Service, Content Provider)
